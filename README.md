@@ -1,6 +1,6 @@
 <h1 align='center'>💳 CC GEN</h1>
 
-<b>💞 Random Credit Card Generator Using Bin it will generate multiple Credit Cards Based On Bin | CVC | Date </b>
+<b>💞 Random CC Gen Using Bin it will generate multiple CC's Based On Bin | CVC | Date </b>
 
 ***
 
@@ -8,4 +8,4 @@
 
 ---
 
-<h4 align='center'> © 2021 Avishkar Patil 😎 <h4>
+<h4 align='center'> © 2024 Uni <h4>
